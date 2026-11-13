@@ -1,0 +1,13 @@
+{
+  "name": "bot-nap-rut",
+  "version": "1.0.0",
+  "main": "bot_nap_rut.js",
+  "scripts": {
+    "start": "node bot_nap_rut.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mineflayer": "^4.39.0",
+    "axios": "^1.6.0"
+  }
+}
